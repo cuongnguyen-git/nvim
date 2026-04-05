@@ -8,23 +8,17 @@ LazyVim is powerful, but I found it too heavy for my actual workflow. I didn’t
 
 So I stripped everything back and rebuilt a minimal config using only the components I actually use daily.
 
----
-
 My workflow is simple:
 
 > search → open → edit → move fast
 
 So I rebuilt from scratch with only the essentials.
 
----
-
 * Minimal config
 * Fast startup
 * Full control
 * Keyboard-first workflow
 * Works seamlessly over SSH and remote boxes
-
----
 
 ## Why I like it
 
@@ -35,16 +29,12 @@ So I rebuilt from scratch with only the essentials.
 * Instant jumping between key files
 * Clean, minimal aesthetic
 
----
-
 ## Plugins Used
 
 * **Telescope** → file search + live grep
 * **Harpoon** → quick file marking and jumping
 * **Lualine** → lightweight status line
 * **Rose Pine** → theme
-
----
 
 ## Keybindings
 
@@ -61,8 +51,6 @@ Leader key: `Space`
 * `Space h` → Open menu
 * `Space 1-4` → Jump to marked files
 
----
-
 ## Workflow
 
 This setup is designed around speed and flow:
@@ -73,8 +61,6 @@ This setup is designed around speed and flow:
 4. Jump instantly between them
 
 Combined with tmux, this becomes a very fast
-
----
 
 ## Notes on Documentation
 
